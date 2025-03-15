@@ -1,6 +1,6 @@
-### Hi There! Namaste :pray: :blush:
+### Hi There :wave: I'm Rohit ! :blush:
 
-```markdown
+
 
 ## About Me
 - **Name**: Rohit Roy
@@ -9,12 +9,12 @@
 - **Bio**: A Learner! Passionate about coding, problem-solving, and continuous learning.
 
 ## Projects
-- [LeetCode](https://github.com/rohitkr7): Collection of LeetCode questions solved by me. (Java)
-- [demoMavenProject](https://github.com/rohitkr7): Demo DevOps Project. (Shell)
-- [RestServicesAutomationFramework](https://github.com/rohitkr7): Automation Framework for Rest API testing using C# and RestSharp Framework.
-- [DataDrivenAutomationFramework](https://github.com/rohitkr7): Data Driven Automation framework built using Java and TestNg Framework.
-- [DevOpsIntegration](https://github.com/rohitkr7): Various DevOps integration projects. (Java)
-- [DSA](https://github.com/rohitkr7): Data Structure and Algorithm projects. (Java)
+- [LeetCode](https://github.com/rohitkr7/LeetCode): Collection of LeetCode questions solved by me. (Java)
+- [demoMavenProject](https://github.com/rohitkr7/demoMavenProject): Demo DevOps Project. (Shell)
+- [RestServicesAutomationFramework](https://github.com/rohitkr7/RestServicesAutomationFramework): Automation Framework for Rest API testing using C# and RestSharp Framework.
+- [DataDrivenAutomationFramework](https://github.com/rohitkr7/DataDrivenAutomationFramework): Data Driven Automation framework built using Java and TestNg Framework.
+- [DevOpsIntegration](https://github.com/rohitkr7/DevOpsIntegration): Various DevOps integration projects. (Java)
+- [DSA](https://github.com/rohitkr7/DSA): Data Structure and Algorithm projects. (Java)
 
 ## Skills
 - **Languages**: Java, JavaScript, C#, Shell
@@ -26,7 +26,7 @@
 - 🎯 Future goals: To become a better software engineer than what I am today.
 
 ## Contact Me
-![LinkedIn](https://www.linkedin.com/in/rohitkr7/)
+- [LinkedIn](https://www.linkedin.com/in/rohitkr7/)
 - 📫 Email: rohitkr7@example.com
 
 ## Fun Facts
@@ -37,4 +37,3 @@
 
 ## Top Languages
 !Top Languages
-```
