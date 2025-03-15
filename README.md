@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi There! Namaste :pray: :blush:
 
-<!--
-**rohitkr7/rohitkr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
 
-Here are some ideas to get you started:
+## About Me
+- **Name**: Rohit Roy
+- **Role**: Software Engineer
+- **Company**: ServiceNow
+- **Bio**: A Learner! Passionate about coding, problem-solving, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [LeetCode](https://github.com/rohitkr7): Collection of LeetCode questions solved by me. (Java)
+- [demoMavenProject](https://github.com/rohitkr7): Demo DevOps Project. (Shell)
+- [RestServicesAutomationFramework](https://github.com/rohitkr7): Automation Framework for Rest API testing using C# and RestSharp Framework.
+- [DataDrivenAutomationFramework](https://github.com/rohitkr7): Data Driven Automation framework built using Java and TestNg Framework.
+- [DevOpsIntegration](https://github.com/rohitkr7): Various DevOps integration projects. (Java)
+- [DSA](https://github.com/rohitkr7): Data Structure and Algorithm projects. (Java)
+
+## Skills
+- **Languages**: Java, JavaScript, C#, Shell
+- **Technologies**: RestSharp, TestNg, Maven, Apache-POI
+- **Expertise**: DevOps, Automation Frameworks, Data Structures and Algorithms
+
+## Learning and Goals
+- 🌱 I’m currently learning advanced DevOps techniques and cloud computing.
+- 🎯 Future goals: To become a better software engineer than what I am today.
+
+## Contact Me
+![LinkedIn](https://www.linkedin.com/in/rohitkr7/)
+- 📫 Email: rohitkr7@example.com
+
+## Fun Facts
+- ⚡ Fun fact: I love solving complex coding problems and participating in coding competitions.
+
+## GitHub Stats
+!Your GitHub stats
+
+## Top Languages
+!Top Languages
+```
