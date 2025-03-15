@@ -15,6 +15,7 @@
 - [DataDrivenAutomationFramework](https://github.com/rohitkr7/DataDrivenAutomationFramework): Data Driven Automation framework built using Java and TestNg Framework.
 - [DevOpsIntegration](https://github.com/rohitkr7/DevOpsIntegration): Various DevOps integration projects. (Java)
 - [DSA](https://github.com/rohitkr7/DSA): Data Structure and Algorithm projects. (Java)
+- [local-mac-setup](https://github.com/rohitkr7/local-mac-setup): Git and other command shortcuts configurations for mac within the .zshrc file (Shell)
 
 ## Skills
 - **Languages**: Java, JavaScript, C#, Shell
