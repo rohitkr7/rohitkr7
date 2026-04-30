@@ -4,7 +4,7 @@
 
 ## About Me
 - **Name**: Rohit Roy
-- **Role**: Software Engineer
+- **Role**: Senior Software Engineer
 - **Company**: ServiceNow
 - **Bio**: A Learner! Passionate about coding, problem-solving, and continuous learning.
 
@@ -20,7 +20,7 @@
 ## Skills
 - **Languages**: Java, JavaScript, C#, Shell
 - **Technologies**: RestSharp, TestNg, Maven, Apache-POI
-- **Expertise**: DevOps, Automation Frameworks, Data Structures and Algorithms
+- **Expertise**: Problem Solving, System Design, Data Structures and Algorithms, DevOps, Automation Frameworks
 
 ## Learning and Goals
 - 🌱 I’m currently learning advanced DevOps techniques and cloud computing.
@@ -29,9 +29,6 @@
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/rohitkr7/)
 - 📫 Email: rohitkr7@example.com
-
-## Fun Facts
-- ⚡ Fun fact: I love solving complex coding problems and participating in coding competitions.
 
 ## GitHub Stats
 
