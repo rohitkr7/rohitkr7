@@ -9,7 +9,7 @@
 - **Bio**: A Learner! Passionate about coding, problem-solving, and continuous learning.
 
 ## Projects
-- [LeetCode](https://github.com/rohitkr7/LeetCode): Collection of LeetCode questions solved by me. (Java)
+- [leetcode-problem-solving](https://github.com/rohitkr7/leetcode-problem-solving): Collection of LeetCode questions solved by me. (Java)
 - [demoMavenProject](https://github.com/rohitkr7/demoMavenProject): Demo DevOps Project. (Shell)
 - [RestServicesAutomationFramework](https://github.com/rohitkr7/RestServicesAutomationFramework): Automation Framework for Rest API testing using C# and RestSharp Framework.
 - [DataDrivenAutomationFramework](https://github.com/rohitkr7/DataDrivenAutomationFramework): Data Driven Automation framework built using Java and TestNg Framework.
