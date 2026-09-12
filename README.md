@@ -104,11 +104,11 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 🌐 **[rohitkr7.github.io](https://rohitkr7.github.io/)** | Sleek personal portfolio site showcasing experience, architecture, and live projects. | `HTML5` `CSS3` `JavaScript` |
+| 🔗 **[url-shortener-service](https://github.com/rohitkr7/url-shortener-service)** | Production-grade, high-throughput URL shortening and real-time analytics service with Base62 encoding and sub-millisecond caching. | `Java 21` `Spring Boot` `PostgreSQL` `Caffeine` |
 | ⚡ **[leetcode-viewer](https://github.com/rohitkr7/leetcode-viewer)** | Dynamic web application for browsing, searching, and filtering LeetCode & Blind 75 solutions with live syntax formatting. | `JavaScript` `Bootstrap` `DSA` |
-| 🧩 **[leetcode-problem-solving](https://github.com/rohitkr7/leetcode-problem-solving)** | Comprehensive collection of solved LeetCode algorithmic problems with asymptotic complexity analyses. | `Java` `Algorithms` `DSA` |
+| 🧩 **[leetcode-solutions](https://github.com/rohitkr7/leetcode-solutions)** | Comprehensive collection of solved LeetCode algorithmic problems with asymptotic complexity analyses. | `Java` `Algorithms` `DSA` |
 | 📐 **[problem-solving-patterns](https://github.com/rohitkr7/problem-solving-patterns)** | Curated implementations of essential algorithmic patterns (Sliding Window, Two Pointers, Monotonic Stack, etc.). | `Java` `Design Patterns` |
-| 🔌 **[RestServicesAutomationFramework](https://github.com/rohitkr7/RestServicesAutomationFramework)** | High-performance enterprise REST API testing framework with automated assertions and reporting. | `C#` `RestSharp` `NUnit` |
-| 📊 **[DataDrivenAutomationFramework](https://github.com/rohitkr7/DataDrivenAutomationFramework)** | Extensible data-driven automation framework integrating Excel datasheets and multi-browser execution. | `Java` `TestNG` `Apache POI` |
+| ☕ **[dsa-java-implementation](https://github.com/rohitkr7/dsa-java-implementation)** | Core data structures and algorithms engineered from scratch in Java, focusing on memory layouts and algorithmic efficiency. | `Java` `DSA` `Algorithms` |
 | 🔄 **[DevOpsIntegration](https://github.com/rohitkr7/DevOpsIntegration)** | Custom integrations and automation utilities connecting orchestration and enterprise DevOps pipelines. | `Java` `REST` `CI/CD` |
 | 💻 **[local-mac-setup](https://github.com/rohitkr7/local-mac-setup)** | Productivity-boosting macOS developer configurations, aliases, and custom `.zshrc` productivity shortcuts. | `Shell` `Zsh` `macOS` |
 
